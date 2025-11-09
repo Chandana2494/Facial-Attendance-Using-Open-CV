@@ -6,7 +6,9 @@ In this project, I built a face-recognition attendance application with a clean 
 TECHNOLOGY USED:
 
 1.Python Tkinter – Developed the complete Graphical User Interface (GUI)
+
 2.OpenCV (LBPH Face Recognizer) – Used for capturing images and performing face detection + recognition
+
 3.(cv2.face.LBPHFaceRecognizer_create())
 
 FEATURES:
