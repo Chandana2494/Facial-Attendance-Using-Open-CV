@@ -1,19 +1,21 @@
 # Face_recognition_based_attendance_system
-A python GUI integrated attendance system using face recognition to take attendance.
+A Python-based attendance system that uses face recognition for real-time student attendance tracking.
 
-In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
+In this project, I built a face-recognition attendance application with a clean and simple GUI so anyone can operate it easily. The system captures faces, trains the model, and automatically marks attendance with date and time. The entire interface is developed using Tkinter, and face recognition is powered by OpenCV.
 
 TECHNOLOGY USED:
-1) tkinter for whole GUI
-2) OpenCV for taking images and face recognition (cv2.face.LBPHFaceRecognizer_create())
-3) CSV, Numpy, Pandas, datetime etc. for other purposes.
+
+1.Python Tkinter – Developed the complete Graphical User Interface (GUI)
+2.OpenCV (LBPH Face Recognizer) – Used for capturing images and performing face detection + recognition
+3.(cv2.face.LBPHFaceRecognizer_create())
 
 FEATURES:
-1) Easy to use with interactive GUI support.
-2) Password protection for new person registration.
-3) Creates/Updates CSV file for deatils of students on registration.
-4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
-5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+
+1.Simple and interactive GUI for smooth usage and navigation.
+2.Password-protected student registration to prevent unauthorized entries.
+3.Automatically stores and updates student details in a CSV database.
+4.Daily attendance tracking with date & time — creates a new CSV file each day.
+5.Live attendance view on the main screen with ID, Name, Date, and Time in a table format.
 
 ### For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
