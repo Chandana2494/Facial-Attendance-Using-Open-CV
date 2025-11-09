@@ -10,14 +10,18 @@ In this project, I built a face-recognition attendance application with a clean 
    *(cv2.face.LBPHFaceRecognizer_create())*
 3. **CSV, NumPy, Pandas, Datetime** – Handling student records, storing attendance, and managing data operations
 
+### FEATURES:
 
-FEATURES:
+1. **Simple and interactive GUI** for smooth usage and navigation.
 
-1.Simple and interactive GUI for smooth usage and navigation.
-2.Password-protected student registration to prevent unauthorized entries.
-3.Automatically stores and updates student details in a CSV database.
-4.Daily attendance tracking with date & time — creates a new CSV file each day.
-5.Live attendance view on the main screen with ID, Name, Date, and Time in a table format.
+2. **Password-protected student registration** to prevent unauthorized entries.
+
+3. **Automatically stores and updates student details** in a CSV file.
+
+4. **Daily attendance tracking** with date & time — creates a new CSV file each day.
+
+5. **Live attendance display** on the main screen with **ID, Name, Date, and Time** in a table format.
+
 
 ### For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
