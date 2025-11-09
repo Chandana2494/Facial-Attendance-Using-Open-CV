@@ -47,6 +47,6 @@ Installation :
 pip install -r Requirements.txt
 python main.py
 
-Windows users: You can also run the app by opening run.bat — no terminal needed.
+Windows users: You can also run the app by opening run.bat; no terminal needed.
 
 
