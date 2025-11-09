@@ -41,8 +41,11 @@ HELP OPTION IN MENUBAR:
 
 CHANGE PASSWORD OPTION:
 ![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+
+
 Installation
 pip install -r Requirements.txt
 python main.py
-Windows users:
-You can also run the app by opening run.bat — no terminal needed.
+Windows users: You can also run the app by opening run.bat — no terminal needed.
+
+
